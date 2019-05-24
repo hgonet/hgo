@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message version="20181121">
+	<SOCKETS_INIT_FAILED>Gagal untuk mengenali perangkat jendela.</SOCKETS_INIT_FAILED>
+	<UPDATER_INIT_FAILED>Gagal mengenali peluncur.</UPDATER_INIT_FAILED>
+	<FILELIST_OPEN_FAILED>Gagal membuka daftar berkas.</FILELIST_OPEN_FAILED>
+	<DUPLICATE_EXE>Tidak bisa memulai dua instalan secara bersamaan.</DUPLICATE_EXE>
+	<RUNTIME_LONG>Diberhentikan karena tidak aktif, jalankan kembali peluncur.</RUNTIME_LONG>
+	<DO_NOT_EXE>Tidak bisa memulai permainan.</DO_NOT_EXE>
+	<DISK_FREE_LACK>Ruang kosong pada disk tidak cukup.</DISK_FREE_LACK>
+	<NEEDED_FILECHECK>Silahkan jalankan proses pemeriksaan terlebih dahulu.</NEEDED_FILECHECK>
+	<CREATE_GAME_FAIL>Tidak bisa memulai lamaran. Silahkan coba kembali.</CREATE_GAME_FAIL>
+	<CMDE_UPDATE_START>Gagal memulai pembaharuan.</CMDE_UPDATE_START>
+	<CMDE_UPDATE_PAUSE>Gagal menahan pembaharuan.</CMDE_UPDATE_PAUSE>
+	<CMDE_FILECHECK1_FAIL>Tidak dapat menjalankan berkas percobaan.</CMDE_FILECHECK1_FAIL>
+	<QUESTION_EXIT>Apakah anda benar-benar ingin keluar?</QUESTION_EXIT>
+	<REPOS_CONNECT_FAIL>Tidak dapat menyambungkan ke pembaharuan jaringan.</REPOS_CONNECT_FAIL>
+	<INIT_WAIT_MSG>Mohon Tunggu...</INIT_WAIT_MSG>
+	<STATE_FILE_CHECK>Memindai berkas.</STATE_FILE_CHECK>
+	<STATE_SIMPLE_VERSION_ACK>Memindai versi terakhir....</STATE_SIMPLE_VERSION_ACK>
+	<STATE_SIMPLE_UPDATE_WAIT>Silahkan update program anda.</STATE_SIMPLE_UPDATE_WAIT>
+	<STATE_SIMPLE_PATCHDOWN>Mengunduh file tambalan.</STATE_SIMPLE_PATCHDOWN>
+	<STATE_SIMPLE_FILE_UNZIP>Memisahkan file tambalan ...</STATE_SIMPLE_FILE_UNZIP>
+	<STATE_SIMPLE_PATCH_APPLY>Memasang file tambalan...</STATE_SIMPLE_PATCH_APPLY>
+	<STATE_SIMPLE_PATCH_END>Anda bisa memulai permainan sekarang!</STATE_SIMPLE_PATCH_END>
+	<STATE_SIMPLE_ERROR>Sebuah kesalahan telah terjadi.</STATE_SIMPLE_ERROR>
+	<STATE_SIMPLE_PATCHDOWN_END>Berhasil mengunduh tambalan!</STATE_SIMPLE_PATCHDOWN_END>
+	<STATE_SIMPLE_VERSION_CHECK>Pengecekan Versi ...</STATE_SIMPLE_VERSION_CHECK>
+	<CONNECT_FAIL2>Tidak dapat menyambungkan koneksi ke server.</CONNECT_FAIL2>
+	<NETWORK_INIT_FAIL>Jaringan penuh.</NETWORK_INIT_FAIL>
+	<LATESTFILELIST_OPEN_FAILED>Daftar berkas terakhir tidak bisa dibuka.</LATESTFILELIST_OPEN_FAILED>
+  <FILELIST_COMPARE_FAILED>Gagal membandingkan daftar berkas.</FILELIST_COMPARE_FAILED>
+  <USERFILELIST_CHANGE_FAILED>Gagal mengubah daftar berkas.</USERFILELIST_CHANGE_FAILED>
+  <LATESTFILELIST_DELETE_FAILED>Gagal menghapus daftar berkas.</LATESTFILELIST_DELETE_FAILED>
+  <PATCHFILE_DOWNLOAD_FAILED>Gagal mengunduh daftar tambalan.</PATCHFILE_DOWNLOAD_FAILED>
+  <FILE_DOWNLOAD_REQ_FAILED>Gagal untuk mengunduh.</FILE_DOWNLOAD_REQ_FAILED>
+  <FILELIST_DOWN_FAILED>Gagal mengunduh daftar berkas.</FILELIST_DOWN_FAILED>
+  <LAUNCHER_VER_DIFF>Versi peluncur diperbarui. Silakan jalankan program kembali.</LAUNCHER_VER_DIFF>
+  <LAUNCHER_DOWNLOAD_FAILED>Gagal mengunduh pembaharuan peluncur.</LAUNCHER_DOWNLOAD_FAILED>
+  <LAUNCHER_MODIFIER_RUN_FAILED>Gagal menjalankan tambalan peluncur.</LAUNCHER_MODIFIER_RUN_FAILED>
+  <NOT_FOUND_GAME_EXE>Eksekusi permainan tidak ditemukan.</NOT_FOUND_GAME_EXE>
+  <UZIP_ERROR>Gagal Menguraikan.</UZIP_ERROR>
+  <CONVERT_DOMAIN_TO_IP_FAILED>Gagal membaca alamat server.</CONVERT_DOMAIN_TO_IP_FAILED>
+  <PATCHFILE_MAY_BE_CORRUPTED>Daftar tambalan rusak selama pengunduhan. Tolong tambal lagi.</PATCHFILE_MAY_BE_CORRUPTED>
+  <CANNOT_GET_MODULE_NAME>Tidak bisa menemukan nama berkas.</CANNOT_GET_MODULE_NAME>
+  <CANNOT_GET_FILESYSTEM_NAME>Tidak dapat membaca info sistem .</CANNOT_GET_FILESYSTEM_NAME>
+  <DOWNLOAD_RESTART_FAILED>Gagal memulai kembali unduhan.</DOWNLOAD_RESTART_FAILED>
+  <SERVER_ACK_TIMEOUT>Server tidak merespon.</SERVER_ACK_TIMEOUT>
+  <FAILED_TO_LAUNCHER_UPDATE>Gagal memperbaharui luncuran.</FAILED_TO_LAUNCHER_UPDATE>
+  <USER_IS_NOT_ADMIN>Silakan masuk dengan hak istimewa Administrator Windows dan coba kembali.</USER_IS_NOT_ADMIN>
+	   
+</message>
